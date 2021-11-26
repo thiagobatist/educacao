@@ -30,13 +30,14 @@
 - [ ] Visualizar Notas
 - [ ] Visualizar e Atualizar Informações do Estudante
 
-# Tecnologias Usadas
+# Exemplos de Ferramentas/Projetos
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Aprendendo Sempre](https://aprendendosempre.org/)
+- [FLIP - Foque nos Estudos](https://play.google.com/store/apps/details?id=kr.co.rinasoft.yktime&hl=pt_BR)
+- [Google Scholar](https://scholar.google.com.br/)
+- [Duolingo](https://pt.duolingo.com/)
+- [Stoodi](https://www.stoodi.com.br/)
+- [Brainly](https://brainly.com.br/)
 
 # Contribuição
 
