@@ -14,7 +14,7 @@
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
-* [Tecnologias Usadas](#tecnologias-usadas)
+* [Exemplos de Ferramentas/Projetos](#exemplos-de-ferramentas/projetos)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
