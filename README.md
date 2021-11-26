@@ -14,7 +14,7 @@
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
-* [Exemplos de Ferramentas/Projetos](#exemplos-de-ferramentas/projetos)
+* [Exemplos de Ferramentas e Projetos](#exemplos-de-ferramentas-e-projetos)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
@@ -30,7 +30,7 @@
 - [ ] Visualizar Notas
 - [ ] Visualizar e Atualizar Informações do Estudante
 
-# Exemplos de Ferramentas/Projetos
+# Exemplos de Ferramentas e Projetos
 
 - [Aprendendo Sempre](https://aprendendosempre.org/)
 - [FLIP - Foque nos Estudos](https://play.google.com/store/apps/details?id=kr.co.rinasoft.yktime&hl=pt_BR)
