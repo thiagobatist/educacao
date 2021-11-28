@@ -6,7 +6,7 @@
 # Sobre o Projeto
 
 <h4> 
-  A Educação é o reflexo da sociedade que a constitui. Ainda existe uma grande disparidade entre a educação básica e a superior, uma vez que nosso modelo estrutural de ensino muitas vezes marginaliza o aprendizado e não possui ferramentas eficazes para uma educação igualitária, pretendemos criar uma plataforma para mudar isso.
+  A Educação é o reflexo da sociedade que a constitui. Ainda existe uma grande disparidade entre a educação básica e a superior, uma vez que nosso modelo estrutural de ensino muitas vezes marginaliza o aprendizado e não possui ferramentas eficazes para uma educação igualitária. Este projeto será criado com foco em soluções de integração de tecnologia para o ensino fundamental e médio.
 </h4>
 
 # Índice/Sumário
